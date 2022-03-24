@@ -82,42 +82,15 @@
         "nixpkgs": [
           "nixpkgs"
         ],
-        "toktok-main": "toktok-main"
-      },
-      "locked": {
-        "lastModified": 1648108183,
-        "narHash": "sha256-mJP6+gg4mAl+LcfUgwo5iJDpEs4xrMar3PpOhbepNDs=",
-        "owner": "nim-nix-pkgs",
-        "repo": "toktok",
-        "rev": "acb17617bdf497f0f8c6051f7b576dcb3e5fb6db",
-        "type": "github"
-      },
-      "original": {
-        "owner": "nim-nix-pkgs",
-        "ref": "master",
-        "repo": "toktok",
-        "type": "github"
-      }
-    },
-    "toktok-main": {
-      "inputs": {
-        "flakeNimbleLib": [
-          "toktok",
-          "flakeNimbleLib"
-        ],
-        "nixpkgs": [
-          "toktok",
-          "nixpkgs"
-        ],
         "src-toktok-main": "src-toktok-main"
       },
       "locked": {
         "dir": "main",
-        "lastModified": 1648108183,
-        "narHash": "sha256-mJP6+gg4mAl+LcfUgwo5iJDpEs4xrMar3PpOhbepNDs=",
+        "lastModified": 1648163697,
+        "narHash": "sha256-W2D369uc37YcpIjBpb1Oks7k9vNPeVWmARPtADerASM=",
         "owner": "nim-nix-pkgs",
         "repo": "toktok",
-        "rev": "acb17617bdf497f0f8c6051f7b576dcb3e5fb6db",
+        "rev": "52728c879c38fbab23bad42d5ba92331ed882015",
         "type": "github"
       },
       "original": {
