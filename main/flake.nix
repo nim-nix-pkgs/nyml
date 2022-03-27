@@ -11,6 +11,7 @@
   inputs.src-nyml-main.ref   = "refs/heads/main";
   inputs.src-nyml-main.owner = "openpeep";
   inputs.src-nyml-main.repo  = "nyml";
+  inputs.src-nyml-main.dir   = "";
   inputs.src-nyml-main.type  = "github";
   
   inputs."toktok".owner = "nim-nix-pkgs";
