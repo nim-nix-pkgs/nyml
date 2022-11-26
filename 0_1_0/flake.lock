@@ -233,7 +233,7 @@
         "flakeNimbleLib": "flakeNimbleLib",
         "nixpkgs": "nixpkgs_2",
         "pkginfo": "pkginfo",
-        "src-nyml-main": "src-nyml-main",
+        "src-nyml-0_1_0": "src-nyml-0_1_0",
         "toktok": "toktok"
       }
     },
@@ -266,7 +266,7 @@
         "type": "github"
       }
     },
-    "src-nyml-main": {
+    "src-nyml-0_1_0": {
       "flake": false,
       "locked": {
         "lastModified": 1669058255,
@@ -278,7 +278,7 @@
       },
       "original": {
         "owner": "openpeep",
-        "ref": "refs/heads/main",
+        "ref": "refs/tags/0.1.0",
         "repo": "nyml",
         "type": "github"
       }
